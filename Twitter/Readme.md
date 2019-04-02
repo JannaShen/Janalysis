@@ -1,6 +1,5 @@
 
- 
-#Twitter hashtags sentiment Analysis 
+Twitter hashtags sentiment Analysis 
 
 
 ###Results： 
