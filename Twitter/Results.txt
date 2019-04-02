@@ -2,7 +2,7 @@
 Twitter hashtags sentiment Analysis 
 
 
-###Results： 
+Teepy Results： 
 
 Positive tweets percentage: 24.63768115942029 %
 Negative tweets percentage: 26.08695652173913 %
